@@ -2,9 +2,15 @@ The notebook includes various methods for creating, modifying, and analyzing gra
 
 ## Libraries Used
 
-To run this notebook, you need the following Python libraries:
-
 - `numpy`
 - `pandas`
 - `matplotlib`
 - `seaborn`
+
+## Types of Graphs in Notebook
+- Line Graph (Basic Graph)
+- Scatter Plot
+- Histogram
+- Bar Plot
+- Heatmap
+- Image
